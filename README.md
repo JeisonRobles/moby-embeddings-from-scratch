@@ -15,12 +15,12 @@ Dataset: *Moby-Dick* (public domain) via Project Gutenberg.
 - An interactive Plotly embedding plot (PCA)
 
 ## Repo structure
-- MOBY-EMBEGGINGS-FROM-STRATCH
--- \venv
--- \data
--- \notebooks
--- \outputs
--- \src
--- LICENCE
--- README
--- requeriments
+MOBY-EMBEGGINGS-FROM-STRATCH:
+- \venv
+- \data
+- \notebooks
+- \outputs
+- \src
+- LICENCE
+- README
+- requeriments
