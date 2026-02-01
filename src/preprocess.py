@@ -11,8 +11,12 @@ GUTENBERG_END_RE = re.compile(r"\*\*\*\s*END OF(.*?)\*\*\*", re.IGNORECASE)
 
 @dataclass
 class PreprocessConfig:
+    """Information:
+    This class preprocess raw documents by removing utils, normalizing,cleaning and framing"""
+    #Class global behaviour variables
     min_paragraph_chars: int = 120
     lowercase: bool = True
+
 
 
 def strip_gutenberg_header_footer(text: str) -> str:
