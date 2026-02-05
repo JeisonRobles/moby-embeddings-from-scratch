@@ -1,4 +1,4 @@
-# Moby-Dick: Embeddings & Similarity (From Scratch)
+# 🐋🌊 Moby-Dick: Embeddings & Similarity (From Scratch) 🐋🌊
 
 This project is a practical, fundamentals-first walkthrough of:
 - Count-based vector semantics (windowed co-occurrence intuition)
@@ -14,7 +14,7 @@ Dataset: *Moby-Dick* (public domain) via Project Gutenberg.
 - A cosine-similarity search (top-k nearest paragraphs)
 - An interactive Plotly embedding plot (PCA)
 
-## Repo structure
+## Repo structure 🖥️
 MOBY-EMBEGGINGS-FROM-STRATCH:
 - \venv
 - \data
